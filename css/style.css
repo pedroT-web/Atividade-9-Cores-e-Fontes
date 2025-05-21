@@ -1,0 +1,21 @@
+*{
+  background-color: #f5a3af;
+}
+.paragrafo{
+    font-family: Georgia, Times , 'Times New Roman' , serif;
+}
+
+.titulo{
+    color:#d1284f;
+}
+
+.compra{
+    color: #fecdd0;
+  text-decoration: none;
+  transition: color 0.1s ease-in-out;
+  background-color: #9061c2;
+}
+.compra:hover {
+    color: #f1396d;
+    background-color:#be80ff ;
+}
